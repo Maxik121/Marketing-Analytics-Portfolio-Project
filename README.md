@@ -1,5 +1,5 @@
 # E-commerce Marketing Performance Dashboard (GA4 & Looker Studio)
-
+![Status: In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge&logo=git)
 ---
 
 >  **Kontekst akademicki:**  
