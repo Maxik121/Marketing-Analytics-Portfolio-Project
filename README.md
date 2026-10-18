@@ -80,10 +80,10 @@ Repozytorium zawiera trzystronicowy interaktywny raport analityczny:
 ## 📂 Struktura repozytorium
 
 ```text
-├── assets/                  # Zrzuty ekranu dashboardu w wysokiej rozdzielczości
+├── assets/                  
 │   ├── 01_overview.png
 │   ├── 02_sem_analysis.png
 │   └── 03_email_performance.png
-├── reports/                 # Oryginalny plik PDF / materiały źródłowe
+├── reports/                 
 │   └── Marketing_Analytics_Report.pdf
-└── README.md                # Dokumentacja projektu i opis biznesowy
+└── README.md                
